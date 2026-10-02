@@ -24,7 +24,3 @@ Este proyecto es una aplicación de escritorio desarrollada en **Python** que in
 *   `main.py`: Punto de entrada. Interfaz gráfica, manejo de eventos y conexión entre la GUI, el Repository y el ADT.
 *   `test_inventario.py`: Pruebas unitarias para validar la Pila y el Repository.
 
-## 🚀 Instalación y Ejecución
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/sistema-inventario.git
